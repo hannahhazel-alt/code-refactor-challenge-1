@@ -9,7 +9,7 @@ A marketing company hired me to change their code to make the website more acces
 ## Installation
 
 Please use the link above to look at the webpage.
-Hello
+
 ## Usage
 
 Use this webpage if you need SEO Marketing.
